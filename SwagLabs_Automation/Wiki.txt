@@ -1,27 +1,23 @@
+Tasks tried to achieve:
+1. To automate Swag demo web site
+2. Add TWo positive test cases
+3. Add Two negative test cases
 
 
-Swag
+Positive Test Cases included:
+1. login with valid User and verify prodcut page is visible
+2. login with valid user and verify product url is navigated properly , if not the test will be failed.
+3. Place order in swag website- Login, add product to cart , click on cart , click on checkout , fill the user details ,  click on continue and click on Finish , close the browser.
 
-- Request from company
-1. to automate swahdemo website
-2. add TWo postive testc cases
-3. add Two negative test cases
-
-
-Positive ::
-1. login with valid User and verify prodcut page visible
-2. login with valid user and verify product url is navigated properly
-3. Place order in swag website, end to end 
-
-negative  ::
+Negative Test Cases included:
 1. login with locked user, and verify error message
-2. login with valid user, and verify remove cart is not working
-3. login with invalid user, and verify remove cart
+2. login with valid user, and verify when a product is added remove cart is present , when removed add cart is present.
+3. login with invalid user, and verify remove cart functionality is not working as expected.
 
 
 Automation project
 
-tools we used
+tools  used
 1. Build tool - maven 
 2. UI - Selenium
 3. Execution - testNG
@@ -31,20 +27,20 @@ tools we used
 Framework :: (Page object model)
 1. created maven project(pom.xml)
 2. added all dependencies(selenium-java, testng, log4j)
-3. Created reusable fucntion under (src/main/java)
+3. Created reusable function under (src/main/java)
+
+Here more details as per each folder:
 	- driverManager
-		- WebDrivermanager ( launch browser), initilising driver
+		- WebDrivermanager ( launch browser), initializing driver
 		- WebPage (Explicit wait, etc)
 	- models
-		- Broswers(CHROME, FIREFOX, SAFARI)
-		- COnstants -- all required non changable values
+		- Browsers(CHROME, FIREFOX, SAFARI)
+		- Constants -- all required non changeable values
 	- pageObjects
+		- create page factory for all pages that are under test , Login page
+ Inventory page ,Cart Page,checkout-step-one page  ,checkout-step-two page for all these been divided in to and named as CommonPage as many of the elements are resused (verifying the product), Productpage ( to get product details ) and cart page ( fillout the user details and continue to checkout and finish order).
 	- utils
+ 		-java class for property reader , as part of exercises only added env properties
 
 
-
-
-mvn test
-
-
-
+If have more time , can add more test cases like Verifying each page functionality check in detail, Divide test cases Smoke VS regression , create groups under test NG to show Skip test cases as well, Data filling the user details may be shown with Data provider methods etc.
