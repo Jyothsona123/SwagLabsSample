@@ -1,0 +1,50 @@
+
+
+Swag
+
+- Request from company
+1. to automate swahdemo website
+2. add TWo postive testc cases
+3. add Two negative test cases
+
+
+Positive ::
+1. login with valid User and verify prodcut page visible
+2. login with valid user and verify product url is navigated properly
+3. Place order in swag website, end to end 
+
+negative  ::
+1. login with locked user, and verify error message
+2. login with valid user, and verify remove cart is not working
+3. login with invalid user, and verify remove cart
+
+
+Automation project
+
+tools we used
+1. Build tool - maven 
+2. UI - Selenium
+3. Execution - testNG
+4. Report - Testng Emailable report(default inbuilt report)
+5. Logs - log4j
+
+Framework :: (Page object model)
+1. created maven project(pom.xml)
+2. added all dependencies(selenium-java, testng, log4j)
+3. Created reusable fucntion under (src/main/java)
+	- driverManager
+		- WebDrivermanager ( launch browser), initilising driver
+		- WebPage (Explicit wait, etc)
+	- models
+		- Broswers(CHROME, FIREFOX, SAFARI)
+		- COnstants -- all required non changable values
+	- pageObjects
+	- utils
+
+
+
+
+mvn test
+
+
+

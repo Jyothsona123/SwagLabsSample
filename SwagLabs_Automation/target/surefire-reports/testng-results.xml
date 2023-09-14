@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Tried to loggin with Locked User]]>
+    </line>
+    <line>
+      <![CDATA[actual  :: Epic sadface: Sorry, this user has been locked out.  expected :: Epic sadface: Sorry, this user has been locked out.]]>
+    </line>
+    <line>
+      <![CDATA[Verified Locked user login]]>
+    </line>
+    <line>
+      <![CDATA[**** SuccessFully Browser closed****]]>
+    </line>
+    <line>
+      <![CDATA[Successfully logged in With Valid User]]>
+    </line>
+    <line>
+      <![CDATA[Product Name :: Sauce Labs Backpack]]>
+    </line>
+    <line>
+      <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Product Name :: Sauce Labs Backpack]]>
+    </line>
+    <line>
+      <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Adding product to Cart]]>
+    </line>
+    <line>
+      <![CDATA[removeCart is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Removing product from cart]]>
+    </line>
+    <line>
+      <![CDATA[Add to cart is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully verified add to cart and remove cart ]]>
+    </line>
+    <line>
+      <![CDATA[**** SuccessFully Browser closed****]]>
+    </line>
+    <line>
+      <![CDATA[Successfully logged in With Problem User]]>
+    </line>
+    <line>
+      <![CDATA[Product Name :: Sauce Labs Backpack]]>
+    </line>
+    <line>
+      <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Product Name :: Sauce Labs Backpack]]>
+    </line>
+    <line>
+      <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Adding product to Cart]]>
+    </line>
+    <line>
+      <![CDATA[removeCart is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Removing product from cart]]>
+    </line>
+    <line>
+      <![CDATA[removeCart is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Unable to Remove Product from Cart]]>
+    </line>
+    <line>
+      <![CDATA[**** SuccessFully Browser closed****]]>
+    </line>
+    <line>
+      <![CDATA[Successfully logged in With Valid User]]>
+    </line>
+    <line>
+      <![CDATA[Product Name :: Sauce Labs Backpack]]>
+    </line>
+    <line>
+      <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Product Name :: Sauce Labs Backpack]]>
+    </line>
+    <line>
+      <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Adding product to Cart]]>
+    </line>
+    <line>
+      <![CDATA[removeCart is displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicking on cart]]>
+    </line>
+    <line>
+      <![CDATA[Product Name :: Sauce Labs Backpack]]>
+    </line>
+    <line>
+      <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on checkout]]>
+    </line>
+    <line>
+      <![CDATA[Filling User details]]>
+    </line>
+    <line>
+      <![CDATA[Order number is created :: SauceCard #31337]]>
+    </line>
+    <line>
+      <![CDATA[Product Name :: Sauce Labs Backpack]]>
+    </line>
+    <line>
+      <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Clciking on Finish Button]]>
+    </line>
+    <line>
+      <![CDATA[Actual :: Thank you for your order! -- Expected :: Thank you for your order!]]>
+    </line>
+    <line>
+      <![CDATA[**** SuccessFully Browser closed****]]>
+    </line>
+    <line>
+      <![CDATA[Successfully logged in With Valid User]]>
+    </line>
+    <line>
+      <![CDATA[Getting current Url :: https://www.saucedemo.com/inventory.html]]>
+    </line>
+    <line>
+      <![CDATA[actual :: https://www.saucedemo.com/inventory.html Expected :: https://www.saucedemo.com/inventory.html]]>
+    </line>
+    <line>
+      <![CDATA[**** SuccessFully Browser closed****]]>
+    </line>
+    <line>
+      <![CDATA[Successfully logged in With Valid User]]>
+    </line>
+    <line>
+      <![CDATA[**** SuccessFully Logged in ****]]>
+    </line>
+    <line>
+      <![CDATA[Product Name :: Sauce Labs Backpack]]>
+    </line>
+    <line>
+      <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Product Price :: $29.99]]>
+    </line>
+    <line>
+      <![CDATA[Verified Product details are visible]]>
+    </line>
+    <line>
+      <![CDATA[**** SuccessFully Browser closed****]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-14T10:36:49 CDT" name="Surefire suite" finished-at="2023-09-14T10:37:08 CDT" duration-ms="19847">
+    <groups>
+    </groups>
+    <test started-at="2023-09-14T10:36:49 CDT" name="Surefire test" finished-at="2023-09-14T10:37:08 CDT" duration-ms="19847">
+      <class name="com.swag.ui.functionalTests.Swag_PositiveTests">
+        <test-method signature="placeSwag_Order_e2e()[pri:0, instance:com.swag.ui.functionalTests.Swag_PositiveTests@15aab8c6]" started-at="2023-09-14T10:36:59 CDT" name="placeSwag_Order_e2e" finished-at="2023-09-14T10:37:03 CDT" duration-ms="3854" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully logged in With Valid User]]>
+            </line>
+            <line>
+              <![CDATA[Product Name :: Sauce Labs Backpack]]>
+            </line>
+            <line>
+              <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Product Name :: Sauce Labs Backpack]]>
+            </line>
+            <line>
+              <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Adding product to Cart]]>
+            </line>
+            <line>
+              <![CDATA[removeCart is displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicking on cart]]>
+            </line>
+            <line>
+              <![CDATA[Product Name :: Sauce Labs Backpack]]>
+            </line>
+            <line>
+              <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on checkout]]>
+            </line>
+            <line>
+              <![CDATA[Filling User details]]>
+            </line>
+            <line>
+              <![CDATA[Order number is created :: SauceCard #31337]]>
+            </line>
+            <line>
+              <![CDATA[Product Name :: Sauce Labs Backpack]]>
+            </line>
+            <line>
+              <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Clciking on Finish Button]]>
+            </line>
+            <line>
+              <![CDATA[Actual :: Thank you for your order! -- Expected :: Thank you for your order!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- placeSwag_Order_e2e -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swag.ui.functionalTests.Swag_PositiveTests@15aab8c6]" started-at="2023-09-14T10:37:03 CDT" name="tearDown" finished-at="2023-09-14T10:37:03 CDT" duration-ms="129" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[**** SuccessFully Browser closed****]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="validateInventoryPage()[pri:0, instance:com.swag.ui.functionalTests.Swag_PositiveTests@15aab8c6]" started-at="2023-09-14T10:37:03 CDT" name="validateInventoryPage" finished-at="2023-09-14T10:37:05 CDT" duration-ms="2496" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully logged in With Valid User]]>
+            </line>
+            <line>
+              <![CDATA[Getting current Url :: https://www.saucedemo.com/inventory.html]]>
+            </line>
+            <line>
+              <![CDATA[actual :: https://www.saucedemo.com/inventory.html Expected :: https://www.saucedemo.com/inventory.html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateInventoryPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swag.ui.functionalTests.Swag_PositiveTests@15aab8c6]" started-at="2023-09-14T10:37:05 CDT" name="tearDown" finished-at="2023-09-14T10:37:06 CDT" duration-ms="129" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[**** SuccessFully Browser closed****]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="validateSuccessLogin()[pri:0, instance:com.swag.ui.functionalTests.Swag_PositiveTests@15aab8c6]" started-at="2023-09-14T10:37:06 CDT" name="validateSuccessLogin" finished-at="2023-09-14T10:37:08 CDT" duration-ms="2719" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully logged in With Valid User]]>
+            </line>
+            <line>
+              <![CDATA[**** SuccessFully Logged in ****]]>
+            </line>
+            <line>
+              <![CDATA[Product Name :: Sauce Labs Backpack]]>
+            </line>
+            <line>
+              <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Verified Product details are visible]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateSuccessLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swag.ui.functionalTests.Swag_PositiveTests@15aab8c6]" started-at="2023-09-14T10:37:08 CDT" name="tearDown" finished-at="2023-09-14T10:37:08 CDT" duration-ms="126" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[**** SuccessFully Browser closed****]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swag.ui.functionalTests.Swag_PositiveTests -->
+      <class name="com.swag.ui.functionalTests.Swag_NegativeTests">
+        <test-method signature="validateLockedUser()[pri:0, instance:com.swag.ui.functionalTests.Swag_NegativeTests@74455848]" started-at="2023-09-14T10:36:49 CDT" name="validateLockedUser" finished-at="2023-09-14T10:36:53 CDT" duration-ms="4005" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tried to loggin with Locked User]]>
+            </line>
+            <line>
+              <![CDATA[actual  :: Epic sadface: Sorry, this user has been locked out.  expected :: Epic sadface: Sorry, this user has been locked out.]]>
+            </line>
+            <line>
+              <![CDATA[Verified Locked user login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateLockedUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swag.ui.functionalTests.Swag_NegativeTests@74455848]" started-at="2023-09-14T10:36:53 CDT" name="tearDown" finished-at="2023-09-14T10:36:53 CDT" duration-ms="135" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[**** SuccessFully Browser closed****]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="validateRemoveCart()[pri:0, instance:com.swag.ui.functionalTests.Swag_NegativeTests@74455848]" started-at="2023-09-14T10:36:53 CDT" name="validateRemoveCart" finished-at="2023-09-14T10:36:56 CDT" duration-ms="3131" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully logged in With Valid User]]>
+            </line>
+            <line>
+              <![CDATA[Product Name :: Sauce Labs Backpack]]>
+            </line>
+            <line>
+              <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Product Name :: Sauce Labs Backpack]]>
+            </line>
+            <line>
+              <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Adding product to Cart]]>
+            </line>
+            <line>
+              <![CDATA[removeCart is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Removing product from cart]]>
+            </line>
+            <line>
+              <![CDATA[Add to cart is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully verified add to cart and remove cart ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateRemoveCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swag.ui.functionalTests.Swag_NegativeTests@74455848]" started-at="2023-09-14T10:36:56 CDT" name="tearDown" finished-at="2023-09-14T10:36:56 CDT" duration-ms="124" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[**** SuccessFully Browser closed****]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="validateRemoveCart_InvalidUser()[pri:0, instance:com.swag.ui.functionalTests.Swag_NegativeTests@74455848]" started-at="2023-09-14T10:36:56 CDT" name="validateRemoveCart_InvalidUser" finished-at="2023-09-14T10:36:59 CDT" duration-ms="2797" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully logged in With Problem User]]>
+            </line>
+            <line>
+              <![CDATA[Product Name :: Sauce Labs Backpack]]>
+            </line>
+            <line>
+              <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Product Name :: Sauce Labs Backpack]]>
+            </line>
+            <line>
+              <![CDATA[Product Description :: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.]]>
+            </line>
+            <line>
+              <![CDATA[Product Price :: $29.99]]>
+            </line>
+            <line>
+              <![CDATA[Adding product to Cart]]>
+            </line>
+            <line>
+              <![CDATA[removeCart is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Removing product from cart]]>
+            </line>
+            <line>
+              <![CDATA[removeCart is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Unable to Remove Product from Cart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateRemoveCart_InvalidUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swag.ui.functionalTests.Swag_NegativeTests@74455848]" started-at="2023-09-14T10:36:59 CDT" name="tearDown" finished-at="2023-09-14T10:36:59 CDT" duration-ms="121" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[**** SuccessFully Browser closed****]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swag.ui.functionalTests.Swag_NegativeTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
